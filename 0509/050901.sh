@@ -1,4 +1,4 @@
-ls /bin/c?
+ls /bin/c??
 #cd /bin
 #ls c??
 #cd -
