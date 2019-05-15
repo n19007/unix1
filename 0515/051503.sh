@@ -1,0 +1,2 @@
+locate -b syslog
+
